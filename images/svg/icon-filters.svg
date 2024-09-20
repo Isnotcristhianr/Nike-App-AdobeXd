@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="16" viewBox="0 0 21 16">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_3" data-name="Trazado 3" d="M14.5-5.25V-8H17v2.75h4v2.5H17V0H14.5V-2.75H0v-2.5ZM4-13.25V-16H6.5v2.75H21v2.5H6.5V-8H4v-2.75H0v-2.5Z" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Trazado_2" data-name="Trazado 2" d="M-329,728H46V-294H-329Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Filters" transform="translate(0 18)">
+    <g id="Grupo_2" data-name="Grupo 2" transform="translate(0 -2)" clip-path="url(#clip-path)">
+      <g id="Grupo_1" data-name="Grupo 1" clip-path="url(#clip-path-2)">
+        <path id="Trazado_1" data-name="Trazado 1" d="M-5-21H26V5H-5Z" fill="#171719"/>
+      </g>
+    </g>
+  </g>
+</svg>

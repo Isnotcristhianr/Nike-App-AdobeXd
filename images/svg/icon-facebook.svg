@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146" height="52" viewBox="0 0 146 52">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_165" data-name="Rectángulo 165" width="26" height="26" transform="translate(0.453 0.347)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_257" data-name="Grupo 257" transform="translate(-45 -733)">
+    <g id="Grupo_251" data-name="Grupo 251" transform="translate(45 733)">
+      <rect id="Rectángulo_141" data-name="Rectángulo 141" width="146" height="52" rx="5" fill="#fff"/>
+    </g>
+    <g id="Enmascarar_grupo_9" data-name="Enmascarar grupo 9" transform="translate(61.547 745.653)" clip-path="url(#clip-path)">
+      <path id="facebook" d="M22.739,0H3.541A3.541,3.541,0,0,0,0,3.541v19.2A3.541,3.541,0,0,0,3.541,26.28h9.468l.016-9.391h-2.44a.576.576,0,0,1-.576-.573L10,13.288a.576.576,0,0,1,.576-.578h2.435V9.785c0-3.394,2.073-5.243,5.1-5.243H20.6a.576.576,0,0,1,.576.576V7.671a.576.576,0,0,1-.575.576H19.071c-1.647,0-1.966.783-1.966,1.931V12.71h3.618a.576.576,0,0,1,.572.643l-.359,3.027a.576.576,0,0,1-.572.508H17.121l-.016,9.391h5.634a3.541,3.541,0,0,0,3.541-3.541V3.541A3.541,3.541,0,0,0,22.739,0Z" transform="translate(0)" fill="#475993"/>
+    </g>
+    <text id="Facebook-2" data-name="Facebook" transform="translate(98 765)" fill="#696c79" font-size="14" font-family="Futura-Medium, Futura" font-weight="500" letter-spacing="-0.027em"><tspan x="0" y="0">Facebook</tspan></text>
+  </g>
+</svg>
